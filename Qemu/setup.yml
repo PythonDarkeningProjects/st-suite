@@ -1,0 +1,9 @@
+configuration_0:
+  0:
+    partition_a: 200
+  0-0:
+    value_a: 200
+  1:
+    value_b: 4
+general_configurations:
+  memory: 1024

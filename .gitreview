@@ -1,0 +1,5 @@
+[gerrit]
+host=some_ip
+port=29418
+project=some_project
+defaultbranch=some_branch
